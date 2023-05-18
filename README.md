@@ -35,4 +35,4 @@
   
   
  ###
-<right><img src="https://img.shields.io/github/watchers/maari95/maari95.svg"><img src="https://img.shields.io/github/followers/maari95.svg?style=social&label=Follow&maxAge=2592000"></right>
+<img src="https://img.shields.io/github/watchers/maari95/maari95.svg">
