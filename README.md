@@ -1,6 +1,6 @@
 
 
-# Hey, my name is Marina Gomes! 👩‍💻
+# Hii, my name is Marina Gomes! 👩‍💻
 #### I'm IT student from in Rio de Janeiro/BR. 
 
 ## I'm learning: 
