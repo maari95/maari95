@@ -11,7 +11,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/> 
           
 
-
 ##
 <div>
 <a href="https://github.com/maari95">
@@ -20,14 +19,5 @@
 </div>
 
 </body>
-
-
-
-
-
-
 <p class="p-1"></p>
 
-
-
-  
