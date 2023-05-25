@@ -21,5 +21,5 @@
 </body>
 <p class="p-1"></p>
 
-##### Contact-me on my telegram: 
+##### Contact-me: 
 <a href="https://t.me/maarig95"><img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-512.png" width="50px" height="50px"></a>
