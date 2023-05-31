@@ -35,5 +35,7 @@
 
 ##### Contact-me: 
 
-<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-256.png" width="30px" height="30px"> <a href="https://t.me/maarig95"><img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-512.png" width="30px" height="30px"></a>
+<a href="https://www.linkedin.com/in/marinagomes95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" height="30px"/> <a href="https://t.me/maarig95"><img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-512.png" width="30px" height="30px"></a> </a><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-256.png" width="30px" height="30px"> 
+
+          
 
