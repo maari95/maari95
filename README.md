@@ -2,13 +2,17 @@
           
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F707F3&width=435&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+github.)](https://git.io/typing-svg)
       
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif" width="800px" height="600">
+
+
+<p>Eu poderia dizer muitas coisas sobre mim, mas por enquanto sou apenas uma aluna de TI, buscando o máximo de aprendizado possível </p>
 
           
 #### I'm learning(Estou aprendendo): 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/> <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/debian-256.png" width="30" height="30">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="30" height="30"/>
           
 
           
@@ -32,10 +36,6 @@
 
 </body>
 <p class="p-1"></p>
-
-##### Contact-me: 
-
-<a href="https://www.linkedin.com/in/marinagomes95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" height="30px"/> <a href="https://t.me/maarig95"><img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-512.png" width="30px" height="30px"></a> </a><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-256.png" width="30px" height="30px"> 
 
           
 
