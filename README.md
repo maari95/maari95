@@ -5,7 +5,7 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif" width="800px" height="600">
 
 
-<p>Eu poderia dizer muitas coisas sobre mim, mas por enquanto sou apenas uma aluna de TI, buscando o máximo de aprendizado possível </p>
+<i>I'd say everything about me, but I'm just a It student, looking for to learn a new technologies. :) </i>
 
           
 #### I'm learning(Estou aprendendo): 
