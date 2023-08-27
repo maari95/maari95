@@ -1,7 +1,7 @@
 <body>
-          
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F707F3&width=435&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+github.)](https://git.io/typing-svg)
-      
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&pause=1000&color=000000&background=9C5AFF00&width=435&lines=Hi%2C+Welcome+to+my+github+profile+%3A)" alt="Typing SVG" /></a>
+
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif" width="800px" height="600">
 
 
@@ -32,8 +32,9 @@
 ##
 <div>
 <a href="https://github.com/maari95">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maari95&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maari95&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maari95&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=maari95&theme=dracula" alt="maari95"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maari95&layout=compact&langs_count=7&theme=dracula"/>      
 </div>
 
 </body>
