@@ -1,6 +1,5 @@
 <body>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&pause=1000&color=000000&background=9C5AFF00&width=435&lines=Hi%2C+Welcome+to+my+github+profile+%3A)" alt="Typing SVG" /></a>
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif" width="800px" height="600">
 
